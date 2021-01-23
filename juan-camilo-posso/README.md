@@ -1,7 +1,8 @@
 ![](img/Escuela-Julio-Garavito.jpg)
 <h1 align="center">A cerca de mí</h1>
+
 ```
-*"Piensa, Actúa,Evalúa,Adáptate". Bill Gates*
+*Piensa, Actúa,Evalúa,Adáptate. Bill Gates*
 ```
 _Mi nombre es juan camilo y tengo 21 años . Pertenezco al programa de ingenieria de sistemas de la **Escuela Colombiana de Ingenieria Julio Garavito** y estoy en ***Octavo semestre***_
 
