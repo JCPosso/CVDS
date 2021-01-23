@@ -1,4 +1,5 @@
-[Link](\img\Escuela-Julio-Garavito.jpg)
+![](img/Escuela-Julio-Garavito.jpg)
+
 # A cerca de mí
 ```
 *"Piensa, Actúa,Evalúa,Adáptate". Bill Gates*
