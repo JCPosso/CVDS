@@ -8,7 +8,7 @@ _Mi nombre es juan camilo y tengo 21 años . Pertenezco al programa de ingenieri
 
 ## Habilidades y fortalezas🚀
 
-_Mis habilidades y fortalezas son:_\
+_Mis habilidades y fortalezas son:_
 * Disciplina
 * Liderazgo
 * Responsabilidad
@@ -18,7 +18,7 @@ _Mis habilidades y fortalezas son:_\
 
 ### Pasatiempos 📋
 
-_Mis pasatiempos son:  _
+_Mis pasatiempos son:_
 1. Dibujar
 2. Programar
 3. Pintar
