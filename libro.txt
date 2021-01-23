@@ -1,7 +1,8 @@
 EL LIBRO MAS FAMOSO DEL MUNDO
 
 AUTORES:
-Johann & Juan
+	Juan
+	Johann
 
 
 
