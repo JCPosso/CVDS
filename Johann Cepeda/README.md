@@ -20,7 +20,7 @@ _Seccion **_main_** de GitBranching_
 _Seccion **_remote_** de GitBranching_
 ![Remote](https://github.com/JCPosso/CVDS-Laboratorio1/blob/master/Johann%20Cepeda/Seccion%202.png)
 
-_Encuentra este sistema de aprendizaje en: _
+Encuentra este sistema de aprendizaje en:
     [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
 
 ### Mi consejo para ti: :heart:
