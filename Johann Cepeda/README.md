@@ -1,5 +1,5 @@
 # Johann Cepeda
-  _Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software._
+  _Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software. Dirijo el grupo de desarrollo de video juegos patrocinado por la decanatura de Inegniería de Sistemas._
 
 ### Hobbies :blush:
 
