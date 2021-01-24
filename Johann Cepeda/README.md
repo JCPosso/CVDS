@@ -2,7 +2,9 @@
 _Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software._
 
 ```
-  Las grandes mentes, no se burlan de las grandes ideas  - La magia de pensar en grande.
+  var msg = "Las grandes mentes, no se burlan de las grandes ideas  
+                      - _La magia de pensar en grande_".
+  return msg;
 ```
 
 ### Hobbies :blush:
