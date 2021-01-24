@@ -23,7 +23,7 @@ _Seccion **_remote_** de GitBranching_
 _Encuentra este sistema de aprendizaje en: _
     [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
 
-###Mi consejo para ti: :heart:
+### Mi consejo para ti: :heart:
 ```
   String msg = "Las grandes mentes, no se burlan de las grandes ideas";
   Book book = "La magia de pensar en grande";
