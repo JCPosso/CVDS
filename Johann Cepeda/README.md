@@ -15,10 +15,10 @@ _Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana 
 
 ### Git Branching
 _Seccion **_main_** de GitBranching_
-![](Seccion 1.png)
+![main](https://github.com/JCPosso/CVDS-Laboratorio1/blob/master/Johann%20Cepeda/Seccion%201.png)
 
 _Seccion **_remote_** de GitBranching_
-![](Seccion 2.png)
+![Remote](https://github.com/JCPosso/CVDS-Laboratorio1/blob/master/Johann%20Cepeda/Seccion%202.png)
 
 _Encuentra este sistema de aprendizaje en:_
 [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
