@@ -1,11 +1,13 @@
 # Johann Cepeda
-_Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software._
+```
+  String msg = "Las grandes mentes, no se burlan de las grandes ideas";
+  Book book = "La magia de pensar en grande";
+  Author author = "David J. Schwartz";
+  
+  return new advice(msg, book, author);
+```
 
-```
-  var msg = "Las grandes mentes, no se burlan de las grandes ideas  
-                      - _La magia de pensar en grande_".
-  return msg;
-```
+_Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software._
 
 ### Hobbies :blush:
 
