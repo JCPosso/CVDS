@@ -1,5 +1,5 @@
 # Johann Cepeda
-_Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana de Ingeniería Julio Garavito. Apasionado por el desarrollo de software._
+_Actualmente soy estudiante de ingenierÃ­a de sistemas en la Escuela Colombiana de IngenierÃ­a Julio Garavito. Apasionado por el desarrollo de software._
 
 ### Hobbies :blush:
 
@@ -15,10 +15,10 @@ _Actualmente soy estudiante de ingeniería de sistemas en la Escuela Colombiana d
 
 ### Git Branching
 _Seccion **_main_** de GitBranching_
-![Seccion main](Seccion 1.png)
+![](Seccion 1.png)
 
 _Seccion **_remote_** de GitBranching_
-![Seccion remote](Seccion 2.png)
+![](Seccion 2.png)
 
 _Encuentra este sistema de aprendizaje en:_
 [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
