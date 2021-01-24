@@ -14,15 +14,16 @@
 * Desarrollador de Videojuegos 2D, 3D, AR.
 
 ### Git Branching
-  _Seccion **_main_** de GitBranching_
+_Seccion **_main_** de GitBranching_
 ![main](https://github.com/JCPosso/CVDS-Laboratorio1/blob/master/Johann%20Cepeda/Seccion%201.png)
 
-  _Seccion **_remote_** de GitBranching_
+_Seccion **_remote_** de GitBranching_
 ![Remote](https://github.com/JCPosso/CVDS-Laboratorio1/blob/master/Johann%20Cepeda/Seccion%202.png)
 
-   _Encuentra este sistema de aprendizaje en: _
+_Encuentra este sistema de aprendizaje en: _
     [GitBranch](https://learngitbranching.js.org/?locale=es_AR) :memo:
 
+###Mi consejo para ti: :hearth:
 ```
   String msg = "Las grandes mentes, no se burlan de las grandes ideas";
   Book book = "La magia de pensar en grande";
